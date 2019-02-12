@@ -118,7 +118,9 @@ nav a:hover{
     .container{
         max-width: 80%;
     }
-
+    .set{
+      max-width: 80%
+  }
 }
 
 
